@@ -1,6 +1,7 @@
+@dealer
 Feature: Search functionality
 
-  @test
+
   Scenario: Search the dealer name
     Given I am on homepage
     When I mouse hover on 'buy+sell' tab
